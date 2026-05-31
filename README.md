@@ -20,3 +20,9 @@ https://people.csail.mit.edu/mrub/evm/
 ├── docs/ # Documentação e referências 
 ├── main.py # Ponto de entrada 
 └── requirements.txt
+
+## Demonstração
+![Demonstração EVM — lado a lado: Original | Amplificado](docs/demo.gif)
+> ⚠️ **Aviso:** O vídeo utilizado nesta demonstração (`baby2.mp4`) é de autoria do MIT CSAIL
+> e foi obtido do site oficial do projeto EVM (https://people.csail.mit.edu/mrub/evm/).
+> Seu uso aqui é **exclusivamente para fins educacionais e de estudo**.
